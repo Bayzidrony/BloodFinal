@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Blood</string>
+
+    <string name="real_time_db_firebase">https://bloodbankbyvinayak-default-rtdb.firebaseio.com/</string>
+
+    <array name="blood_groups">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB-</item>
+    </array>
+
+    <array name="states">
+        <item>Dhaka</item>
+        <item>Barisal</item>
+        <item>Chittagong</item>
+        <item>Khulna</item>
+        <item>Rajshahi</item>
+        <item>Rangpur</item>
+        <item>Sylhet</item>
+    </array>
+
+    <array name="Districts_Dhaka">
+        <item>Dhaka</item>
+        <item>Gazipur</item>
+        <item>Narsingdi</item>
+        <item>Manikganj</item>
+        <item>Munshiganj</item>
+        <item>Narayanganj</item>
+        <item>Mymensingh</item>
+        <item>Sherpur</item>
+        <item>Jamalpur</item>
+        <item>Netrokona</item>
+        <item>Kishoreganj</item>
+        <item>Tangail</item>
+        <item>Faridpur</item>
+        <item>Maradipur</item>
+        <item>Shariatpur</item>
+        <item>Rajbari</item>
+        <item>Gopalganj</item>
+    </array>
+
+    <array name="Districs_Barisal">
+        <item>Barisal</item>
+        <item>Vula</item>
+    </array>
+
+    <array name="Districts_Chittagong">
+        <item>Chittagong</item>
+        <item>Comilla</item>
+    </array>
+</resources>
